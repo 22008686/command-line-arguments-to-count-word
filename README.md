@@ -37,7 +37,8 @@ print("Number of words={}".format(num_words))
 ```
 ### OUTPUT:
 
-![](./comm.png)
+![](./com2.png)
+![](./com1.png)
 
 ## RESULT:
 
