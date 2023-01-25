@@ -19,7 +19,7 @@ Step 1:import sys
 
  Step 4:Use len to count number of words.
 
-Step 5: ive print.
+Step 5: Give print.
 
 ## PROGRAM:
 ```
@@ -37,8 +37,8 @@ print("Number of words={}".format(num_words))
 ```
 ### OUTPUT:
 
-![](./com2.png)
 ![](./com1.png)
+![](./com2.png)
 
 ## RESULT:
 
